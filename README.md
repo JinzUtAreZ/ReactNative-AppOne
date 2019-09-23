@@ -6,3 +6,5 @@ First React Native Project
 4. install android studio, install sdk in sdk manager, install virtual machine in avd manager. download playstore and android OS,
     First boot is usually the longest.
 5. open android emulator, VSCode npm start then click the run on android or ios on expo webpage.
+
+Debug in android ctrl + m, Debug in IOS command + d
